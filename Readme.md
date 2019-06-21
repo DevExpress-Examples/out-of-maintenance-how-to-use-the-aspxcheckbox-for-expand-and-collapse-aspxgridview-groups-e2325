@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to use the ASPxCheckBox for expand and collapse ASPxGridView groups
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2325/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to expand/collapse grid groups on selecting/unselecting ASPxCheckBox.</p><p>First, place ASPxCheckBox and ASPxLabel into the Grid.Templates.<a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewGridViewTemplates_GroupRowContenttopic">GroupRowContent</a> template.<br />
